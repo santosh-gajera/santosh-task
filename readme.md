@@ -2,26 +2,22 @@
 This is the Repo for the Wordpress Santosh Task
 
 # Quick Links
-1. [Test brief](#test-brief)
-2. [Requirments](#requirements)
+1. [Task brief](#task-brief)
+2. [Used Plugins](#plugins)
 4. [Pricing table](#pricing-table)
 5. [Design](#design)
 6. [Assets](#assets)
 
-# Test Brief
-The purpose of this test is for us to see what kind of developer you are.
+# Task Brief
+1) Download test-task.sql file and import database into your phpmyadmin
 
-The task is simple, follow instructions where required and show initiative where you can.
+2) After database import setup wordpress with selecting this database and setup wordpress and login to wordpress dashboard.
 
-This test shouldn’t take more than a couple of hours.
+3) Afters sucessfull login to dashboard, There showing oxygem builder signing shortcode for template.
 
-It will require varied frontend and backend skills.
+4) Now check front view of site.
 
-TLDR; convert the following design into a wordpress page.
-
-![PNG of the design](Design.png)
-
-# Requirements
+# Plugins
 The task is to create this page in wordpress using a custom built plugin to generate the blocks for the page. You can
 rely on the use of other plugins if necessary.
 
