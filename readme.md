@@ -5,10 +5,10 @@ This is the Repo for the Wordpress Santosh Task
 1. [Project Setup](#project-setup)
 2. [Used Plugins](#plugins)
 
-# Project Setu
-1) Download test-task.sql file and import database into your phpmyadmin.
+# Project Setup
+1) Download the test-task.sql file and import the database into your phpMyAdmin..
 
-2) After database import setup wordpress with selecting this database and setup wordpress and login to wordpress dashboard.
+2) After a successful database import, set up WordPress by selecting this database.
 
 3) Afters sucessfull login to dashboard, There showing oxygem builder signing shortcode for template.
 
